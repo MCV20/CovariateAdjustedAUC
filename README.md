@@ -11,5 +11,6 @@ For all files, set n to the desired number (we use 200, 500, 700, 1000, 2500, 50
 - sim.R contains the code for the case with no missing data or measurement error.
 - simME.R contains the code for the case measurement error.
 - simMiss.R contains the code for the case with missing data on covariates.
+- fullboos1.R and fullboos0.R contains the code use to estimate the standard error of the estimators using boostrap for the treatment and control group respectively. 
 
  
